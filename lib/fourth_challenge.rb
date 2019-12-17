@@ -25,13 +25,9 @@ def fourth_challenge
         attitude:"confused"},
         {name:"nurse",
         age:"44",
-        attitude:"worried"
-          
-        }
+        attitude:"worried" }
       ]
    }
 }
-
-  
 
 end
